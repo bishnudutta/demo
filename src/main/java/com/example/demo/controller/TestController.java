@@ -17,8 +17,6 @@ public class TestController {
         map.put(2, "Piyush Kumar");
         map.put(3, "Rahul ");
         return ResponseEntity.ok(map);
-
-
     }
 
 }
